@@ -1,16 +1,4 @@
-# translator
 
-translator for android smartwatches
 
-## Getting Started
+https://github.com/eln02/translator/assets/99683487/5b8b5db2-3be8-43d5-8378-fa298982cefa
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
