@@ -74,12 +74,18 @@ class _TranslationWidgetState extends State<TranslationWidget> {
           height: 46,
           child: TextField(
             controller: _textController,
+            cursorColor: Colors.blue,
+            enableInteractiveSelection: false,
             decoration: InputDecoration(
               contentPadding:
                   const EdgeInsets.symmetric(horizontal: 10, vertical: 0),
               enabledBorder: OutlineInputBorder(
                 borderRadius: BorderRadius.circular(28.0),
                 borderSide: const BorderSide(color: Colors.white, width: 1.0),
+              ),
+              focusedBorder: OutlineInputBorder(
+                borderRadius: BorderRadius.circular(28.0),
+                borderSide: const BorderSide(color: Colors.blue, width: 2.0),
               ),
               border: const OutlineInputBorder(),
               labelText: 'Введите текст',
